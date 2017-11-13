@@ -1,0 +1,8 @@
+﻿  ArquivoNomesSobrenomes.c
+c:\users\junior\source\repos\projeto de ed2 - agenda em arquivo\projeto de ed2 - agenda em arquivo\arquivonomessobrenomes.c(22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: consulte a declaração de 'strcpy'
+c:\users\junior\source\repos\projeto de ed2 - agenda em arquivo\projeto de ed2 - agenda em arquivo\arquivonomessobrenomes.c(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(136): note: consulte a declaração de 'strcpy'
+c:\users\junior\source\repos\projeto de ed2 - agenda em arquivo\projeto de ed2 - agenda em arquivo\arquivonomessobrenomes.c(190): warning C4101: 'dadosStruct': variável local não referenciada
+c:\users\junior\source\repos\projeto de ed2 - agenda em arquivo\projeto de ed2 - agenda em arquivo\arquivonomessobrenomes.c(308): warning C4715: 'buscarArqNomesSobrenomes': nem todos os caminhos de controle retornam um valor
+  PROJETO DE ED2 - AGENDA EM ARQUIVO.vcxproj -> C:\Users\junior\source\repos\PROJETO DE ED2 - AGENDA EM ARQUIVO\Debug\PROJETO DE ED2 - AGENDA EM ARQUIVO.exe
